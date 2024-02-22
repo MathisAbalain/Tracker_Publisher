@@ -31,6 +31,8 @@ Maintenant, steamVR ne demandera pas de connecter un casque avant d’être util
 
 # Utiliser le tracker
 
+- Lancer SteamVR, et vérifier que les tracker est bien connecté.
+
 - lancer le script vive_server.py , en spécifiant en argument l'adresse IP vers laquelle envoyer les données.
 
 - lancer ensuite le noeud ROS tracker_publisher. Les données TF devraient apparaître dans l'invite de commande, et sont publiées vers les autres noeuds ROS.
