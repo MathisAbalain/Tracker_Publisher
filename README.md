@@ -18,7 +18,7 @@ Pour utiliser ce projet, il faut d'abord avoir une version légérement modifié
 
 - dans le dossier .steam/steam/config , modifier le fichier steamvr.vresettings  en ajoutant ces lignes :
 
-"steamvr"{
+> "steamvr"{
     "requireHmd" : false,
     "forcedDriver": null,
     "activateMultipleDrivers": true
